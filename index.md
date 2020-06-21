@@ -1,6 +1,7 @@
 # My diary of the github tutorial
 
-I have forgotten everything after two days how I created branches and  so on. But I will solve issue 2 anyway.
+I have forgotten everything after two days how I created branches and  so on. But I will solve issue 2 anyway. 
+I hope in the second try I complete the task.
 
 ## This things I want to know: 
 * How can I get the description of issue 1?
